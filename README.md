@@ -52,7 +52,7 @@ We know it still has a long way to go, but we are committed to improving and exp
 This project is currently hosted on:
 
 <a href="https://bot-hosting.net/">Bot-Hosting.net</a>
-
+**you have to add BOT_TOKEN key in environment with value that is telegram bot token and with secret mode**
 ## 📦 Current Version
 
 **v1.0.0 — Initial Version**
@@ -77,6 +77,7 @@ If you use, modify, or redistribute this project, please credit the original aut
 ## ❤️ Support
 
 Thank you for checking out this project!
+(send request thanks)
 
 Your support, feedback, and contributions are appreciated.
 
